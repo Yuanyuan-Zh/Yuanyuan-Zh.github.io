@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: about
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 6
 ---
 
