@@ -27,8 +27,31 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello - my name is **Yuanyuan Zhang**! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As an empirical reseacher, I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
+
+---
+
+## Working papers
+
+**Consumers' Reactions to Non-integrated versus Integrated Price Reductions**  
+Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren
+*Revise & resubmit at Journal of Marketing*  
+
+
+**How do Temporary VAT Cut Policies Change Consumer Prices?**  
+Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren
+*Reject & resubmit at Journal of Marketing Research*  
+
+---
+
+
+## Research in Progress
+
+**Consumer Responses to Shrinkflation Warning**  
+Zhang, Yuanyuan and Kathleen Cleeren
+
+
