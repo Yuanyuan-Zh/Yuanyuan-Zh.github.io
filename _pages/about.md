@@ -26,14 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### About Me
+* About Me
 
 Hello - my name is **Yuanyuan Zhang**! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
 
 ---
 
-### Working papers
+* Working papers
 
 **Consumers' Reactions to Non-integrated versus Integrated Price Reductions**  
 Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren  
@@ -45,7 +45,7 @@ Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren
 
 ---
 
-### Research in Progress
+* Research in Progress
 
 **Consumer Responses to Shrinkflation Warning**  
 Zhang, Yuanyuan and Kathleen Cleeren
