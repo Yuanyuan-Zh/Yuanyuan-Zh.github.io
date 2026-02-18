@@ -11,16 +11,17 @@ calendar: false
 **Instructor, KU Leuven**
 
 - **Y00954  Marketing Strategy**
-- (Graduate; 1 session) 2025
+  (Graduate; 1 session) 2025
  
 - **Y00961 International Marketing Management**  
-- (Graduate; 1 session) 2022, 2023
+  (Graduate; 1 session) 2022, 2023
+
 
 
 **Daily Supervisor, KU Leuven**
 
 - **YF0038 Master's Thesis MBA****
-- (Graduate) 2021 – 2025
+  (Graduate) 2021 – 2025
 
 
 
