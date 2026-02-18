@@ -18,7 +18,7 @@ calendar: false
 
 
 
-### Daily Supervisor, KU Leuven ** 
+### Daily Supervisor, KU Leuven
 
 - YF0038 Master's Thesis MBA
   (Graduate) 2021 – 2025
