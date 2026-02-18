@@ -8,9 +8,6 @@ nav_order: 5
 calendar: false
 ---
 
-
-## Teaching Experience
-
 **Instructor, KU Leuven**
 
 - **Y00954  Marketing Strategy**
@@ -26,6 +23,4 @@ calendar: false
 - (Graduate) 2021 – 2025
 
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
-{% include courses.liquid %}
