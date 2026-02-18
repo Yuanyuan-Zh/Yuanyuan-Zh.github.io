@@ -8,7 +8,7 @@ nav_order: 5
 calendar: false
 ---
 
-### Instructor, KU Leuven
+### Instructor, KU Leuven  ###
 
 - Y00954  Marketing Strategy
   (Graduate; 1 session) 2025
@@ -18,7 +18,7 @@ calendar: false
 
 
 
-### Daily Supervisor, KU Leuven
+### Daily Supervisor, KU Leuven  ###
 
 - YF0038 Master's Thesis MBA
   (Graduate) 2021 – 2025
