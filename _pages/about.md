@@ -10,7 +10,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="text-align: center; margin-bottom: 0.5rem; font-size: 0.9rem;">Welcome to connect!</p>
     <div class="contact-icons" style="display: flex; gap: 1rem; justify-content: center; align-items: center;">
       <a href="mailto:yuanyuan.zhang@kuleuven.be" title="Email"><img src="assets/img/contact/email1.png" alt="Email" style="height: 32px; width: 32px; object-fit: contain;"></a>
       <a href="https://linkedin.com/in/yuanyuan-zhang-731ab2273" target="_blank" title="LinkedIn"><img src="assets/img/contact/linkedin1.jpg" alt="LinkedIn" style="height: 32px; width: 32px; object-fit: contain;"></a>
