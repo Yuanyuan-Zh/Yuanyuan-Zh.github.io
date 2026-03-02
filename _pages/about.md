@@ -6,7 +6,7 @@ subtitle:
 
 affiliation:
   image: image/logo/KU_Leuven.png
-  link: https://www.kuleuven.be/en
+
 
 profile:
   align: right
