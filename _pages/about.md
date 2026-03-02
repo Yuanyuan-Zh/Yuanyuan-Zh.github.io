@@ -31,7 +31,7 @@ latest_posts:
 
 #### About Me ####
 
-Hello - my name is **Yuanyuan Zhang** <small>({% include audio.liquid path="assets/audio/name-pronunciation.mp3" controls=true class="d-inline-block" %} listen to pronunciation)</small>! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
+Hello - my name is **Yuanyuan Zhang** <small>({% include audio.liquid path="assets/audio/name-pronunciation.mp3" controls=true class="d-inline-block" %} Pronounce my name)</small>! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
 
 ---
