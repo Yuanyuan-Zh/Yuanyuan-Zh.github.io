@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Yuanyuan Zhang
+title: About
 permalink: /
 subtitle:
 
