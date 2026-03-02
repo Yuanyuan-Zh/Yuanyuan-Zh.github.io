@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 
 affiliation:
-  image: image/logo/KU_Leuven.png
+  image: assets/img/logo/KU_Leuven.png
 
 
 profile:
