@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post" style="position: relative;">
   <!-- Affiliation Logo (Upper Left) -->
   {% if page.affiliation %}
-    <div style="position: absolute; top: 20px; left: 20px; z-index: 10;">
+    <div style="position: absolute; top: 0; left: 0; z-index: 100; padding: 20px;">
       {% if page.affiliation.link %}
         <a href="{{ page.affiliation.link }}" target="_blank" title="KU Leuven">
       {% endif %}
       <img 
         src="{{ page.affiliation.image | prepend: '/assets/img/' | relative_url }}" 
         alt="KU Leuven" 
-        style="height: 60px; object-fit: contain;"
+        style="height: 60px; object-fit: contain; display: block;"
       >
       {% if page.affiliation.link %}</a>{% endif %}
     </div>
