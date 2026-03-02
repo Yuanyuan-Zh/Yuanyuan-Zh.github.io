@@ -10,8 +10,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div class="contact-icons" style="font-size: 1.5rem;">
-      {% social_links %}
+    <div class="contact-icons" style="display: flex; gap: 1rem; justify-content: center; align-items: center;">
+      <a href="mailto:yuanyuan.zhang@kuleuven.be" title="Email" style="font-size: 1.8rem; text-decoration: none;">📧</a>
+      <a href="https://linkedin.com/in/yuanyuan-zhang-731ab2273" target="_blank" title="LinkedIn"><img src="assets/img/contact/linkedin.jpg" alt="LinkedIn" style="height: 32px; width: auto;"></a>
+      <a href="#" onclick="alert('Scan my WeChat QR code'); return false;" title="WeChat"><img src="assets/img/contact/wechat.png" alt="WeChat" style="height: 32px; width: auto;"></a>
     </div>
 
 
@@ -29,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-#### Hello - my name is Yuanyuan Zhang <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
+#### Hello - I'm Yuanyuan Zhang <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
 
 I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
