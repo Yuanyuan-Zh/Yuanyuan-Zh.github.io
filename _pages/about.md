@@ -5,7 +5,8 @@ permalink: /
 subtitle:
 
 affiliation:
-  image: assets/img/logo/KU_Leuven.png
+  image: logo/KU_Leuven.png
+  link: https://www.kuleuven.be/en
 
 
 profile:
