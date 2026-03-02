@@ -13,14 +13,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>PhD Candidate in Marketing</p>
+    <p>KU Leuven, Belgium</p>
+    <div class="contact-icons" style="font-size: 2rem; margin-top: 1rem;">
+      {% social_links %}
+    </div>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: als # includes social icons at the bottom of the page
-social_in_profile: true # includes social icons under the profile image
+social: false # removes social icons from the bottom of the page
 
 announcements:
-  enabled: false e # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
@@ -32,7 +36,7 @@ latest_posts:
 
 #### About Me ####
 
-Hello - my name is **Yuanyuan Zhang** <small>({% include audio.liquid path="assets/audio/name-pronunciation.mp3" controls=true class="d-inline-block" %} Pronounce my name)</small>! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
+Hello - my name is **Yuanyuan Zhang** <small>(<a href="assets/audio/name-pronunciation.mp3">🔊 Pronounce my name</a>)</small>! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.a
 I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
 
 ---
