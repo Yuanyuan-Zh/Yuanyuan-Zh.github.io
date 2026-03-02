@@ -11,9 +11,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div class="contact-icons" style="display: flex; gap: 1rem; justify-content: center; align-items: center;">
-      <a href="mailto:yuanyuan.zhang@kuleuven.be" title="Email" style="font-size: 1.8rem; text-decoration: none;">📧</a>
-      <a href="https://linkedin.com/in/yuanyuan-zhang-731ab2273" target="_blank" title="LinkedIn"><img src="assets/img/contact/linkedin.jpg" alt="LinkedIn" style="height: 32px; width: auto;"></a>
-      <a href="#" onclick="alert('Scan my WeChat QR code'); return false;" title="WeChat"><img src="assets/img/contact/wechat.png" alt="WeChat" style="height: 32px; width: auto;"></a>
+      <a href="mailto:yuanyuan.zhang@kuleuven.be" title="Email"><img src="assets/img/contact/linkedin1.jpg" alt="Email" style="height: 32px; width: 32px; object-fit: contain;"></a>
+      <a href="https://linkedin.com/in/yuanyuan-zhang-731ab2273" target="_blank" title="LinkedIn"><img src="assets/img/contact/linkedin.jpg" alt="LinkedIn" style="height: 32px; width: 32px; object-fit: contain;"></a>
+      <a href="#" onclick="window.open('assets/img/contact/wechat_qr.jpeg', 'WeChat QR Code', 'width=400,height=400'); return false;" title="WeChat - Click to see QR code"><img src="assets/img/contact/wechat11.png" alt="WeChat" style="height: 32px; width: 32px; object-fit: contain;"></a>
     </div>
 
 
