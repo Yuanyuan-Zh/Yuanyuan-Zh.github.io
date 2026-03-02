@@ -28,7 +28,7 @@ latest_posts:
 
 #### About Me ####
 
-Hello - my name is **Yuanyuan Zhang**! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
+Hello - my name is **Yuanyuan Zhang** <small>({% include audio.liquid path="assets/audio/name-pronunciation.mp3" controls=true class="d-inline-block" %} listen to pronunciation)</small>! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
 
 ---
@@ -37,11 +37,11 @@ I study questions at the intersection of marketing and public policy. Through my
 
 **Consumers' Reactions to Non-integrated versus Integrated Price Reductions**  
 Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren  
-*Revise & Resubmit at Journal of Marketing*  
+*Revise & resubmit at Journal of Marketing*  
 
 **How Do Temporary VAT Cut Policies Change Consumer Prices?**  
 Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren  
-*Reject & Resubmit at Journal of Marketing Research*  
+*Reject & resubmit at Journal of Marketing Research*  
 
 ---
 
