@@ -2,6 +2,21 @@
 layout: default
 ---
 <div class="post">
+  <!-- Affiliation Logo (Upper Left) -->
+  {% if page.affiliation %}
+    <div style="position: absolute; top: 20px; left: 20px; z-index: 10;">
+      {% if page.affiliation.link %}
+        <a href="{{ page.affiliation.link }}" target="_blank" title="KU Leuven">
+      {% endif %}
+      <img 
+        src="{{ page.affiliation.image | prepend: '/assets/img/' | relative_url }}" 
+        alt="KU Leuven" 
+        style="height: 60px; object-fit: contain;"
+      >
+      {% if page.affiliation.link %}</a>{% endif %}
+    </div>
+  {% endif %}
+
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}

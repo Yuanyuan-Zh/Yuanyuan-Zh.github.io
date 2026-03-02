@@ -4,6 +4,9 @@ title: About
 permalink: /
 subtitle:
 
+affiliation:
+  image: kuleuven-logo.svg
+  link: https://www.kuleuven.be/en
 
 profile:
   align: right
