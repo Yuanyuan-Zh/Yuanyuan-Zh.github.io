@@ -1,11 +1,11 @@
 ---
 layout: about
-title: About
+title: Yuanyuan Zhang
 permalink: /
 subtitle:
 
 affiliation:
-  image: kuleuven-logo.svg
+  image: image/logo/KU_Leuven.png
   link: https://www.kuleuven.be/en
 
 profile:
@@ -13,8 +13,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Candidate in Marketing</p>
-    <p>KU Leuven, Belgium</p>
     <div class="contact-icons" style="font-size: 2rem; margin-top: 1rem;">
       {% social_links %}
     </div>
@@ -34,9 +32,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-#### About Me ####
+#### Hello - my name is Yuanyuan Zhang <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
 
-Hello - my name is **Yuanyuan Zhang** <small>(<a href="assets/audio/name-pronunciation.mp3">🔊</a>)</small>! I am a 5th year Ph.D. candidate in Marketing at KU Leuven.a
+I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
 
 ---
