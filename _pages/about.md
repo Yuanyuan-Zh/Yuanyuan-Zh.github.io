@@ -34,7 +34,7 @@ latest_posts:
 #### Hello - I'm Yuanyuan Zhang <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
 
 I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
-I study questions at the intersection of marketing and public policy. Through my work, I aim to generate insights that inform managers in developing effective marketing strategies and policymakers in designing sound interventions.
+I study questions at the intersection of marketing and public policy.
 
 ---
 
