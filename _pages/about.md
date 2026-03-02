@@ -4,10 +4,6 @@ title: About
 permalink: /
 subtitle:
 
-affiliation:
-  image: logo/KU_Leuven.png
-  link: https://www.kuleuven.be/en
-
 
 profile:
   align: right
