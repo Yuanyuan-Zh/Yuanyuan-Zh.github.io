@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div class="contact-icons" style="font-size: 2rem; margin-top: 1rem;">
+    <div class="contact-icons" style="font-size: 1.5rem;">
       {% social_links %}
     </div>
 
