@@ -10,8 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div class="contact-icons" style="display: flex; gap: 1rem; justify-content: center; align-items: center;">
     <p>contact:</p>
+    <div class="contact-icons" style="display: flex; gap: 1rem; justify-content: center; align-items: center;">
       <a href="mailto:yuanyuan.zhang@kuleuven.be" title="Email"><img src="{{ 'assets/img/contact/email1.png' | relative_url }}" alt="Email" style="height: 30px; width: 30px; object-fit: contain;"></a>
       <a href="https://linkedin.com/in/yuanyuan-zhang-731ab2273" target="_blank" title="LinkedIn"><img src="{{ 'assets/img/contact/linkedin1.png' | relative_url }}" alt="LinkedIn" style="height: 31px; width: 31px; object-fit: contain;"></a>
       <a href="{{ 'assets/img/contact/wechat_qr.jpeg' | relative_url }}" id="WeChatBtn" title="WeChat - Click to see QR code"><img src="{{ 'assets/img/contact/wechat11.png' | relative_url }}" alt="WeChat" style="height: 32px; width: 32px; object-fit: contain;"></a>
