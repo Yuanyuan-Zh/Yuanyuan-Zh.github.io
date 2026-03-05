@@ -12,7 +12,7 @@ span,
 strong,
 em {
   color: var(--global-text-color);
-  font-family: $font-body;
+  font-family: v.$font-body;
 }
 
 h1,
@@ -22,7 +22,7 @@ h4,
 h5,
 h6 {
   color: var(--global-text-color);
-  font-family: $font-heading;
+  font-family: v.$font-heading;
 }
 
 hr {

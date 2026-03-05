@@ -13,8 +13,14 @@ profile:
     <div class="contact-icons" style="display: flex; gap: 1rem; justify-content: center; align-items: center;">
       <a href="mailto:yuanyuan.zhang@kuleuven.be" title="Email"><img src="assets/img/contact/email1.png" alt="Email" style="height: 30px; width: 30px; object-fit: contain;"></a>
       <a href="https://linkedin.com/in/yuanyuan-zhang-731ab2273" target="_blank" title="LinkedIn"><img src="assets/img/contact/linkedin1.png" alt="LinkedIn" style="height: 31px; width: 31px; object-fit: contain;"></a>
-      <a href="#" onclick="window.open('assets/img/contact/wechat_qr.jpeg', 'WeChat QR Code', 'width=400,height=400'); return false;" title="WeChat - Click to see QR code"><img src="assets/img/contact/wechat11.png" alt="WeChat" style="height: 32px; width: 32px; object-fit: contain;"></a>
+      <a href="#" id="WeChatBtn" title="WeChat - Click to see QR code"><img src="assets/img/contact/wechat11.png" alt="WeChat" style="height: 32px; width: 32px; object-fit: contain;"></a>
     </div>
+
+    <!-- WeChat QR Code Modal -->
+    <div id="WeChatMod" class="wechat-modal">
+      <img src="{{ 'assets/img/contact/wechat_qr.jpeg' | relative_url }}" alt="WeChat QR Code" />
+    </div>
+    <script src="{{ '/assets/js/wechat.js' | relative_url | bust_file_cache }}"></script>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
