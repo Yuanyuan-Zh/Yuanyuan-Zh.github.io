@@ -4,19 +4,25 @@
 
 @use "variables" as v;
 
+body,
 p,
+div,
+li,
+span,
+strong,
+em {
+  color: var(--global-text-color);
+  font-family: $font-body;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
-em,
-div,
-li,
-span,
-strong {
+h6 {
   color: var(--global-text-color);
+  font-family: $font-heading;
 }
 
 hr {
