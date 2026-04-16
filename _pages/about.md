@@ -8,7 +8,7 @@ hide_page_header: true
 
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -51,10 +51,12 @@ I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 #### Working papers ####
 
 **Consumers' Reactions to Non-integrated versus Integrated Price Reductions**  
-Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren. *Revise and resubmit @ Journal of Marketing.*
+Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren
+Revise and resubmit @  *Journal of Marketing.*
 
 **How Do Temporary VAT Cut Policies Change Consumer Prices?**  
-Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren. *Reject and resubmit @ Journal of Marketing Research.*
+Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren 
+Reject and resubmit @ *Journal of Marketing Research.*
 
 <div style="height: 2rem;"></div>
 

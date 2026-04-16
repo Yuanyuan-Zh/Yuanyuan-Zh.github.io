@@ -38,6 +38,17 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
+
+  &.profile-center {
+    float: none;
+    margin: 0 auto 1.5rem;
+    max-width: 320px;
+    text-align: center;
+
+    .more-info {
+      text-align: center;
+    }
+  }
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns
