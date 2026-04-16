@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Yuanyuan Zhang
 permalink: /
 subtitle:
 hide_navbar: true
@@ -40,30 +40,28 @@ latest_posts:
 
 ---
 
+<div style="height: 1.25rem;"></div>
 
 #### Hello, I'm Yuanyuan Zhang <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
 
 I am a 5th year Ph.D. candidate in Marketing at KU Leuven.
 I study questions at the intersection of marketing and public policy.
 
----
+<div style="height: 2rem;"></div>
 
 #### Working papers ####
 
 **Consumers' Reactions to Non-integrated versus Integrated Price Reductions**
-
 Zhang, Yuanyuan; Marco Kotschedoff; Kathleen Cleeren. *Revise and resubmit, Journal of Marketing.*
 
 **How Do Temporary VAT Cut Policies Change Consumer Prices?**
-
 Zhang, Yuanyuan; Marco Kotschedoff; Kathleen Cleeren. *Reject and resubmit, Journal of Marketing Research.*
 
----
+<div style="height: 2rem;"></div>
 
 #### Work in Progress (selected) ####
 
 **Consumer Responses to Shrinkflation Warning**
-
 Zhang, Yuanyuan; Kathleen Cleeren.
 
 
