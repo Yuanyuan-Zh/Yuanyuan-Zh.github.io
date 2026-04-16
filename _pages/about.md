@@ -51,17 +51,17 @@ I study questions at the intersection of marketing and public policy.
 
 #### Working papers ####
 
-**Consumers' Reactions to Non-integrated versus Integrated Price Reductions**
+**Consumers' Reactions to Non-integrated versus Integrated Price Reductions**  
 Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren. *Revise and resubmit, Journal of Marketing.*
 
-**How Do Temporary VAT Cut Policies Change Consumer Prices?**
+**How Do Temporary VAT Cut Policies Change Consumer Prices?**  
 Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren. *Reject and resubmit, Journal of Marketing Research.*
 
 <div style="height: 2rem;"></div>
 
 #### Work in Progress (selected) ####
 
-**Consumer Responses to Shrinkflation Warning**
+**Consumer Responses to Shrinkflation Warning**  
 Zhang, Yuanyuan and Kathleen Cleeren
 
 
