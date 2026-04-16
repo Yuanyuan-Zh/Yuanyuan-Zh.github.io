@@ -23,6 +23,22 @@ profile:
     </div>
     <script src="/assets/js/wechat.js"></script>
 
+    <div style="margin-top: 0.9rem; text-align: center;">
+      <div style="font-size: 0.9rem; font-weight: 600; margin-bottom: 0.35rem;">Visitor Map</div>
+      <script
+        type="text/javascript"
+        id="mapmyvisitors"
+        src="https://mapmyvisitors.com/map.js?d=7mDB4zP-LUaIi8RMm-l5L50IjR8SD_asVy5Fs-vTwTc&cl=ffffff&w=a"
+      ></script>
+      <noscript>
+        <a href="https://mapmyvisitors.com/web/1c3xs" title="Visit tracker"
+          ><img
+            src="https://mapmyvisitors.com/map.png?d=7mDB4zP-LUaIi8RMm-l5L50IjR8SD_asVy5Fs-vTwTc&cl=ffffff"
+            alt="Visitor map"
+        /></a>
+      </noscript>
+    </div>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # removes social icons from the bottom of the page
