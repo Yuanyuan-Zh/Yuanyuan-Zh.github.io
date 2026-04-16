@@ -43,7 +43,8 @@ latest_posts:
 
 <div style="height: 1.25rem;"></div>
 
-#### Hello, I'm Yuanyuan Zhang (张园园) <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
+
+#### Hello, I am Yuanyuan Zhang (张园园). <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
 
 I am a fifth-year Ph.D. candidate in Marketing at KU Leuven.
 
