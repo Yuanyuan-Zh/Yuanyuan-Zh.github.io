@@ -34,7 +34,7 @@ layout: default
   <article>
     {% if page.profile %}
       {% assign profile_align = page.profile.align | default: 'right' %}
-      <div class="profile {% if profile_align == 'center' %}profile-center{% else %}float-{% if profile_align == 'left' %}left{% else %}right{% endif %}{% endif %}">
+      <div class="profile {% if profile_align == 'center' %}profile-center{% else %}float-{% if profile_align == 'left' %}left{% else %}right{% endif %}{% endif %}{% if page.profile.sticky and profile_align == 'right' %} profile-sticky-right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}

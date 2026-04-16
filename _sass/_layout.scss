@@ -49,6 +49,17 @@ body.sticky-bottom-footer {
       text-align: center;
     }
   }
+
+  &.profile-sticky-right {
+    position: sticky;
+    top: 1.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .profile.profile-sticky-right {
+    position: static;
+  }
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns
