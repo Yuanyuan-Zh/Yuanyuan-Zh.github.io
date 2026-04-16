@@ -66,4 +66,3 @@ Reject and resubmit at *Journal of Marketing Research.*
 **Consumer Responses to Shrinkflation Warning**  
 Zhang, Yuanyuan, and Kathleen Cleeren.
 
-
