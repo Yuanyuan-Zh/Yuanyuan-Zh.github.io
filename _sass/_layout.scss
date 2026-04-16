@@ -56,12 +56,13 @@ body.sticky-bottom-footer {
   }
 
   &.profile-fixed-right-middle {
-    position: fixed;
-    top: 90px;
-    right: max(1rem, calc((100vw - #{v.$max-content-width}) / 2 + 20px));
+    float: right;
+    position: relative;
+    top: 0;
+    right: 0;
     width: 300px;
-    z-index: 20;
-    /* Remove vertical centering, use a fixed top offset to avoid overlap */
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
   }
 }
 
