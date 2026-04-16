@@ -9,7 +9,7 @@ hide_page_header: true
 
 profile:
   align: right
-  sticky: true
+  fixed_middle_right: true
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >

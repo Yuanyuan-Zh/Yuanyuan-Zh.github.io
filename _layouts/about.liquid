@@ -34,7 +34,8 @@ layout: default
   <article>
     {% if page.profile %}
       {% assign profile_align = page.profile.align | default: 'right' %}
-      <div class="profile {% if profile_align == 'center' %}profile-center{% else %}float-{% if profile_align == 'left' %}left{% else %}right{% endif %}{% endif %}{% if page.profile.sticky and profile_align == 'right' %} profile-sticky-right{% endif %}">
+      {% assign profile_fixed_middle_right = page.profile.fixed_middle_right and profile_align == 'right' %}
+      <div class="profile {% if profile_align == 'center' %}profile-center{% else %}float-{% if profile_align == 'left' %}left{% else %}right{% endif %}{% endif %}{% if page.profile.sticky and profile_align == 'right' %} profile-sticky-right{% endif %}{% if profile_fixed_middle_right %} profile-fixed-right-middle{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -56,7 +57,7 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    <div class="clearfix{% if profile_fixed_middle_right %} content-with-fixed-profile{% endif %}">{{ content }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}

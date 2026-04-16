@@ -54,11 +54,35 @@ body.sticky-bottom-footer {
     position: sticky;
     top: 1.5rem;
   }
+
+  &.profile-fixed-right-middle {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    right: max(1rem, calc((100vw - #{v.$max-content-width}) / 2));
+    width: min(300px, 30vw);
+    z-index: 20;
+  }
+}
+
+.content-with-fixed-profile {
+  padding-right: 340px;
 }
 
 @media (max-width: 767px) {
   .profile.profile-sticky-right {
     position: static;
+  }
+
+  .profile.profile-fixed-right-middle {
+    position: static;
+    transform: none;
+    width: auto;
+    right: auto;
+  }
+
+  .content-with-fixed-profile {
+    padding-right: 0;
   }
 }
 
