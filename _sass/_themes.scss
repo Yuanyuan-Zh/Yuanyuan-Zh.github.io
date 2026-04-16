@@ -5,6 +5,13 @@
 @use "sass:color";
 
 :root {
+
+  html,
+  body {
+    background: #fff !important;
+    background-color: #fff !important;
+  }
+
   color-scheme: light;
   --global-bg-color: #ffffff;
   --global-code-bg-color: #{v.$code-bg-color-light};
