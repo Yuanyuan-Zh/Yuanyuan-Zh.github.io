@@ -9,11 +9,15 @@ p,
 div,
 li,
 span,
-strong,
 em {
   color: var(--global-text-color);
   font-family: v.$font-body;
-  line-height: 1.7;
+  font-weight: 300;
+  line-height: 1.8;
+}
+
+strong {
+  font-weight: 500;
 }
 
 h1,
@@ -24,7 +28,7 @@ h5,
 h6 {
   color: var(--global-text-color);
   font-family: v.$font-heading;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0.01em;
   line-height: 1.3;
 }

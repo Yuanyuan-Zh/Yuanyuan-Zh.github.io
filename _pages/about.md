@@ -35,7 +35,7 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
----
+
 
 #### Hello, I'm Yuanyuan Zhang <audio id="nameAudio" src="assets/audio/name-pronunciation.mp3" style="display: none;"></audio><a href="#" onclick="document.getElementById('nameAudio').play(); return false;" style="font-size: 0.9rem; margin-left: 0.3rem; cursor: pointer;">🔊</a> ####
 
