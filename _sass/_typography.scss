@@ -13,7 +13,11 @@ em {
   color: var(--global-text-color);
   font-family: v.$font-body;
   font-weight: 400;
-  line-height: 1.6;
+  font-size: 17px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 strong {
