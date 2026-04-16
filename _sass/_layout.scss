@@ -56,13 +56,15 @@ body.sticky-bottom-footer {
   }
 
   &.profile-fixed-right-middle {
-    float: right;
+    float: right !important;
     position: relative;
     top: 0;
     right: 0;
     width: 300px;
     margin-left: 2rem;
     margin-bottom: 1.5rem;
+    clear: none !important;
+    /* Force right float and prevent left float override */
   }
 }
 
