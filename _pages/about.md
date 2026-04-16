@@ -63,10 +63,10 @@ Reject and resubmit at *Journal of Marketing Research.*
 
 #### Work in progress (selected) ####
 
-**Consumer Responses to Shrinkflation Warning**  
+**Consumer Responses to Shrinkflation Warnings**  
 Zhang, Yuanyuan, and Kathleen Cleeren.
 
 <div style="height: 1.25rem;"></div>
 
 #### Upcoming presentation ####
-- 2026 ISMS Marketing Science Conference (Carcavelos, Portugal)
+June 13, 2026 — ISMS Marketing Science Conference (Carcavelos, Portugal)
