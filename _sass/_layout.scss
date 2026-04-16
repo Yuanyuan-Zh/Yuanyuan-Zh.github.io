@@ -59,14 +59,14 @@ body.sticky-bottom-footer {
     position: fixed;
     top: 50%;
     transform: translateY(-50%);
-    right: max(1rem, calc((100vw - #{v.$max-content-width}) / 2));
-    width: min(300px, 30vw);
+    right: max(1rem, calc((100vw - #{v.$max-content-width}) / 2 + 20px));
+    width: 300px;
     z-index: 20;
   }
 }
 
 .content-with-fixed-profile {
-  padding-right: 340px;
+  padding-right: 360px;
 }
 
 @media (max-width: 767px) {
