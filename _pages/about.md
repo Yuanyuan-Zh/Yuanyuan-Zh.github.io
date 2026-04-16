@@ -58,9 +58,9 @@ Revise and resubmit at *Journal of Marketing.*
 **How Do Temporary VAT Cut Policies Change Consumer Prices?**  
 Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren.  
 Reject and resubmit at *Journal of Marketing Research.*
-
 <div style="height: 2rem;"></div>
-
+#### Work in progress (selected) ####
+<div style="height: 2rem;"></div>
 #### Work in progress (selected) ####
 
 **Consumer Responses to Shrinkflation Warning**  
