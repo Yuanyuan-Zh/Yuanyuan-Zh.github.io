@@ -65,7 +65,7 @@ Zhang, Yuanyuan, Marco Kotschedoff, and Kathleen Cleeren.
 #### Work in progress (selected) ####
 
 **Consumer Responses to Shrinkflation Warnings**  
-Zhang, Yuanyuan, and Kathleen Cleeren.
+Zhang, Yuanyuan and Kathleen Cleeren.
 
 <div style="height: 1.25rem;"></div>
 
