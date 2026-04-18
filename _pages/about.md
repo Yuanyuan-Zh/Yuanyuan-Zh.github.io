@@ -96,7 +96,3 @@ June 13, 2026 — ISMS Marketing Science Conference (Carcavelos, Portugal)
 }
 </script>
 
-<!-- SEO: Keyword-rich paragraph for Yuanyuan Zhang KU Leuven -->
-<div style="margin-top: 2rem; font-size: 1.1rem; color: #444;">
-<strong>About Yuanyuan Zhang, KU Leuven:</strong> Yuanyuan Zhang is a PhD candidate in Marketing at <a href="https://www.kuleuven.be/" target="_blank">KU Leuven</a>, Belgium. Her research focuses on consumer behavior, pricing strategies, and market research. As part of KU Leuven, Yuanyuan Zhang contributes to academic publications, conferences, and collaborative research projects. For more about Yuanyuan Zhang’s work at KU Leuven, explore her publications and academic CV on this website.
-</div>
