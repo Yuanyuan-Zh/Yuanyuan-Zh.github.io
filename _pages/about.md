@@ -71,3 +71,32 @@ Zhang, Yuanyuan and Kathleen Cleeren.
 
 #### Upcoming presentation ####
 June 13, 2026 — ISMS Marketing Science Conference (Carcavelos, Portugal)
+
+<div style="height: 2rem;"></div>
+
+<!-- SEO: Structured Data for Yuanyuan Zhang, KU Leuven -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yuanyuan Zhang",
+  "alternateName": "张园园",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "KU Leuven",
+    "url": "https://www.kuleuven.be/"
+  },
+  "jobTitle": "PhD Candidate in Marketing",
+  "url": "https://yuanyuanzhang.org",
+  "sameAs": [
+    "https://linkedin.com/in/yuanyuan-zhang-731ab2273"
+  ],
+  "email": "yuanyuan.zhang@kuleuven.be",
+  "description": "Yuanyuan Zhang is a PhD candidate at KU Leuven specializing in marketing, consumer behavior, and pricing."
+}
+</script>
+
+<!-- SEO: Keyword-rich paragraph for Yuanyuan Zhang KU Leuven -->
+<div style="margin-top: 2rem; font-size: 1.1rem; color: #444;">
+<strong>About Yuanyuan Zhang, KU Leuven:</strong> Yuanyuan Zhang is a PhD candidate in Marketing at <a href="https://www.kuleuven.be/" target="_blank">KU Leuven</a>, Belgium. Her research focuses on consumer behavior, pricing strategies, and market research. As part of KU Leuven, Yuanyuan Zhang contributes to academic publications, conferences, and collaborative research projects. For more about Yuanyuan Zhang’s work at KU Leuven, explore her publications and academic CV on this website.
+</div>
