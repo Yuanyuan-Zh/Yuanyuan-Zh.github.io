@@ -100,10 +100,3 @@ June 13, 2026 — ISMS Marketing Science Conference (Carcavelos, Portugal)
 
 <div style="height: 2rem;"></div>
 
-#### Visitors ####
-
-<div style="display: flex; justify-content: center; margin: 2rem 0;">
-  <!-- RevolverMaps visitor cluster widget -->
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5v7v7v7v7v7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-</div>
-
